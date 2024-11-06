@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BiometricAuthentication Kotlin</string>
+    <string name="button1">Fingerprint Authentication</string>
+</resources>
